@@ -1,4 +1,1 @@
-Grails Cache Ehcache Plugin
-====================
-
-Makes Ehcache the cache implementation for the [Grails Cache Plugin](https://github.com/grails3-plugins/cache)
+This repo is no longer used. It was a fork of the original Grails Cache Ehcache plugin for Grails 3, but has since been merged back into the [main repo](https://github.com/grails-plugins/grails-cache-ehcache).
